@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NetomiChatApp</string>
+    <string name="message">Message</string>
+    <string name="empty_message">No chats available</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting&#8230;</string>
+    <string name="send">Send</string>
+    <string name="message_status_icon">Message Status Icon</string>
+</resources>
