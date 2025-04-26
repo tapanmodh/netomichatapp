@@ -3,7 +3,6 @@ package com.tm.netomichatapp.data.model
 data class Message(
     val text: String,
     val status: MessageStatus,
-    //val type: Type
 )
 
 enum class MessageStatus {
